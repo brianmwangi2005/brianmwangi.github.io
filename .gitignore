@@ -1,0 +1,7 @@
+#ignore compiled Python files
+
+#ignore virtual environment directories
+.idlerc/
+.vscode/
+__pycache__/
+virtual/
